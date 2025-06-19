@@ -47,6 +47,8 @@ I recommend spasm-ng and have a link below in the resources.
 
 - Z80 CPU Manual [https://www.zilog.com/docs/z80/ps0178.pdf](https://www.zilog.com/docs/z80/ps0178.pdf)
 
+- TI-83 Plus Developer Guide [https://education.ti.com/html/eguides/discontinued/computer-software/EN/SDK-TI-83-Developer-Guide_EN.pdf](https://education.ti.com/html/eguides/discontinued/computer-software/EN/SDK-TI-83-Developer-Guide_EN.pdf)
+
 - Wabbitemu TI Emulator [http://wabbitemu.org](http://wabbitemu.org)
 
 # Copyright/License
